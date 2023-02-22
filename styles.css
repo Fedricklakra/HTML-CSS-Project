@@ -18,7 +18,7 @@ body, html {
 .otp-container{
 width:800;
 padding:20px;
-border:2px solid black;
+border:2px solid greeen;
 border-radius: 10px;
 text-align:center;
 }
